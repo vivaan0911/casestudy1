@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+h1 {
+    color: white;
+    background-color: blue;
+    border: outset;
+    border-color: #FFEB3B;
+    border-width: 10px;
+  }
+
+.vs{
+font-size: 30px;
+}
+
+.output{
+    background-color: deeppink;
+    border-radius: 30px;
+}
+
+.object1{
+    background-color: deepskyblue;
+}
+
+.object2{
+    background-color: greenyellow;
+}
+
+.object3{
+    background-color: gold;
+}
+
+.object4{
+    background-color:indianred;
+}
